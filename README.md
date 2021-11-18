@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 
 -->
-I am a Computer Information Technology undergrad at British Columbia Institute Of Technology. My goal i
+I am a Computer Information Technology undergrad at British Columbia Institute Of Technology.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a custom keyboard enthusiasts who loves building keyboards as a hobby.  
 - 📫 How to reach me: Feel free to contact me for any inquries at my Linkedin profile, https://www.linkedin.com/in/alexander-amog/
