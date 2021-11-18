@@ -5,14 +5,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
 
 -->
-I am a Computer Information Technology undergrad at British Columbia Institute Of Technology. 
+I am a Computer Information Technology undergrad at British Columbia Institute Of Technology. My goal i
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a custom keyboard enthusiasts who loves building keyboards as a hobby.  
-- 📫 How to reach me: Feel free to contact me at my Linkedin profile, https://www.linkedin.com/in/alexander-amog/  
+- 📫 How to reach me: Feel free to contact me for any inquries at my Linkedin profile, https://www.linkedin.com/in/alexander-amog/  
