@@ -1,4 +1,4 @@
-### Welcome My name is Alex (he/him)👋
+### Welcome, my name is Alexander (he/him)👋
 
 ⌨️ I am a CIT student at <a href='https://bcit.ca'>British Columbia Institute Of Technology</a>, Vancouver BC. 
 
