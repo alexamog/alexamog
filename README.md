@@ -1,7 +1,7 @@
 Hi 👋 My name is Alexander
 ==========================
 
-Incoming IT Infrastructure Support @ Government of Canada | Student
+SWE Intern @ Government of Canada | Student
 -----------------------------------------
 
 I am a co-op student at British Columbia Institute of Technology, Vancouver BC. I have been passionate about programming ever since I have started BCIT's computing program. Other than school, I am a keyboard enthusiast who loves to tinker with mechanical keyboards.
