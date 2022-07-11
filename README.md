@@ -8,7 +8,7 @@ I am a co-op student at British Columbia Institute of Technology, Vancouver BC. 
 
 * 🌍  I'm based in Vancouver
 * ✉️  You can contact me at [aamog@my.bcit.ca](mailto:aamog@my.bcit.ca)
-* 🧠  I'm currently learning Java and React
+* 🧠  I'm currently learning Java and Typescript
 
 ### Skills
 
