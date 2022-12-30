@@ -8,6 +8,6 @@ I am currently a student at British Columbia Institute of Technology pursuing th
 
 In the near future, I aspire to be a full-time Developer living comfortably with two cats 🐈 🐈‍⬛
 
-During my free time, I either spend time working on projects or tinkering with custom mechanical keyboards. ⌨️
+During my free time, I either spend time working on projects or tinkering with custom mechanical keyboards. ⌨️ 🪛
 
 Please feel free to contact me via [LinkedIn](https://www.linkedin.com/in/alexander-amog/) or [email](mailto:aamog@my.bcit.ca) ✉️
