@@ -10,4 +10,4 @@ In the near future, I aspire to be a full-time Developer living comfortably with
 
 During my free time, I either spend time working on projects or tinkering with custom mechanical keyboards. ⌨️
 
-* ✉️  You can contact me at [aamog@my.bcit.ca](mailto:aamog@my.bcit.ca)
+Please feel free to contact me via [LinkedIn](https://www.linkedin.com/in/alexander-amog/) or [email](mailto:aamog@my.bcit.ca) ✉️
