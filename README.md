@@ -1,7 +1,7 @@
 Hi 👋 My name is Alexander
 ==========================
 
-Student @ BCIT | Previous SWD, SRE @ Government of Canada
+IT Graduate | Previous SWD, SRE @ Government of Canada
 -----------------------------------------
 Recent graduate of the Information Technology program at British Columbia Institute of Technology and have completed an eight-month co-op program with the Government of Canada, where I gained experience as a Software Developer and Site Reliability Engineer. 🤓 ⌨️ 
 
