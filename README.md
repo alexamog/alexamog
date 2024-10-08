@@ -1,9 +1,9 @@
 Hello, my name is Alex 👋
 =========================================================
-IT  @ Government of Canada
+Digital Forensics & Cybersecurity Student | Previous IT  @ Government of Canada
 ---------------------------------------------------------
-I am a recent honours graduate of the Information Technology program at BCIT (British Columbia Institute of Technology) 
+I am currently a full time student at BCIT (British Columbia Institute of Technology) 
 - 🌍 I'm based in Vancouver
-- 👩‍💻 Previous Software Developer and DevOps @ Government of Canada 
+- 👩‍💻 Previous Software Developer, DevOps, and IT @ Government of Canada 
 - ✉️ Feel free to contact me at [alexamog@outlook.com](mailto:alexamog@outlook.com)
 - ⚡ I enjoy building custom mechanical keyboards and plastic model kits
