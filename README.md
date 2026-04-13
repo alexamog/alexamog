@@ -20,9 +20,3 @@ Previously worked as a DevOps Engineer, Software Developer, and IT Technician at
 - 🥋 Former Karate athlete, competed at a national level
 - ⌨️ I build custom mechanical keyboards
 - 🧛 Dracula at Night + JetBrains Mono
-
----
-
-### Find me
-
-[Portfolio](https://alexamog.dev) · [LinkedIn](https://linkedin.com/in/alexander-amog)
