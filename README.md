@@ -2,7 +2,7 @@
 
 IT Systems & Infrastructure Specialist completing a BT in Digital Forensics & Cybersecurity at BCIT.
 
-Previously worked as a DevOps Engineer, Software Developer, and IT Technician across two co-op terms at the Government of Canada (ESDC & ECCC).
+Previously worked as a DevOps Engineer, Software Developer, and IT Technician at the Government of Canada (ESDC & ECCC).
 
 ---
 
