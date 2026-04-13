@@ -8,19 +8,18 @@ Previously worked as a DevOps Engineer, Software Developer, and IT Technician ac
 
 ### What I work with
 
-**Cloud & DevOps** — AWS, Azure, Terraform, Ansible, Docker, Kubernetes, Jenkins  
-**Languages** — Python, PowerShell, Bash, JavaScript, TypeScript  
-**Security & Forensics** — FTK, Magnet AXIOM, Cellebrite UFED, Wireshark, X-Ways  
-**Frameworks** — React, Node.js, Express, Spring Boot, Apache Camel  
+**Cloud & DevOps**: AWS, Azure, Terraform, Ansible, Docker, Kubernetes, Jenkins  
+**Languages**: Python, PowerShell, Bash, JavaScript, TypeScript  
+**Security & Forensics**: FTK, Magnet AXIOM, Cellebrite UFED, Wireshark, X-Ways  
+**Frameworks**: React, Node.js, Express, Spring Boot, Apache Camel  
 
 ---
 
 ### A bit about me
 
-- 🔬 My capstone research recovered deleted iMessage data from Apple devices under RCMP mentorship
-- 🥋 Karate practitioner for 5+ years, competed at the BC provincial level
+- 🥋 Former Karate athlete, competed at a national level
 - ⌨️ I build custom mechanical keyboards
-- 🧛 Dracula at Night + JetBrains Mono — non-negotiable
+- 🧛 Dracula at Night + JetBrains Mono
 
 ---
 
